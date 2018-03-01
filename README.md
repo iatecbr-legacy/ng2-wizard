@@ -4,7 +4,7 @@ Wizard runs on angular 2 and is available as an NPM package. You can install ng2
 in your project's directory as usual:
 
 ```bash
-$ npm install --save ng2-wizard
+$ npm install --save @iatec/ng2-wizard
 ```
 
 Component Wizard(step to step with tabs) for Angular 2.

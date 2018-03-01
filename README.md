@@ -1,10 +1,3 @@
- [![npm version](https://badge.fury.io/js/ng2-wizard.svg)](https://badge.fury.io/js/ng2-wizard)
-
-# WizardComponent
-@version 2.0.3 <br>
-@author: Flávio Silva <br>
-@link: [https://github.com/fssolutions/ng2-wizard](https://github.com/fssolutions/ng2-wizard)
-
 ## Installation
 
 Wizard runs on angular 2 and is available as an NPM package. You can install ng2-wizard
@@ -43,15 +36,3 @@ Add in your module
    ]
  })
 ```
-
-## Contributing
-
-Contributions are welcome and appreciated. You can find ng2-combosearch on GitHub, feel free to start
-an issue or create a pull requests:<br>
-[https://github.com/fssolutions/ng2-wizard](https://github.com/fssolutions/ng2-wizard)
-
-
-## License
-
-Copyright (c) 2016 Flávio Silva [fssolutions](http://www.flaviosilva.net).<br>
-Licensed under the MIT License (MIT)

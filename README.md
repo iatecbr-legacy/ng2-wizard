@@ -25,7 +25,7 @@ Component Wizard(step to step with tabs) for Angular 2.
 ### TypeScript (.ts)
 Import WizardComponent and WizardStepComponent
 ```
- import { Ng2WizardModule } from 'ng2-wizard';
+ import { Ng2WizardModule } from '@iatec/ng2-wizard';
 ```
 
 Add in your module
